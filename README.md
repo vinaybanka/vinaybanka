@@ -1,88 +1,82 @@
-## Hi there 👋
-# Hi, I'm Vinay Venkata Deepak Banka 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Banka%20vinay%20venkata%20deepak&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20and%20ML%20Practitioner&descSize=18&descAlignY=55&textBg=false"/>
 
-## 🧑‍💻 Data Analyst | ML Practitioner | NLP Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Data%20speaks.%20I%20translate.%22" alt="Typing introduction" />
+</p>
 
-I'm a Computer Science graduate passionate about turning raw data into 
-actionable business insights. I build end-to-end data pipelines, machine 
-learning models, and interactive dashboards that solve real-world problems.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=vinaybanka">
+    <img src="https://komarev.com/ghpvc/?username=vinaybanka&label=Profile%20views&color=00FFFF&style=flat-square" alt="vinaybanka's profile views" />
+  </a>
+</p>
 
----
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
-## 🚀 What I Do
+## 📌 About Me
+- 🎓 B.Tech Computer Science Graduate — JNTUK University, 2025
+- 💼 Ex-AI Intern @ Embrizon Technologies India
+- 🔍 Passionate about finding patterns in data and turning them into real business value
+- 🏆 Built ML projects processing 500,000+ real-world records with measurable impact
+- 🌱 Currently exploring advanced NLP and deep learning techniques
+- 💡 Open to Data Analyst and Data Scientist opportunities
 
-- 📊 **Data Analysis** — EDA, Statistical Analysis, RFM Analysis, KMeans Clustering
-- 🤖 **Machine Learning** — Predictive Modeling, Churn Prediction, Ensemble Models
-- 🧠 **NLP** — Sentiment Analysis, Topic Modeling, Keyword Extraction
-- 📈 **Data Visualization** — Power BI, Streamlit, Plotly dashboards
-- 🗄️ **Data Engineering** — ETL Pipelines, SQLite, Data Cleaning
 
----
+## 🧠 My Focus Areas
+- 📊 Data Analysis & Business Intelligence
+- 🤖 Machine Learning & Predictive Modeling
+- 🧠 Natural Language Processing & Sentiment Analysis
+- 📈 Data Visualization & Dashboard Development
+- 🔧 ETL Pipelines & Data Engineering
+- ☁️ Cloud Deployment & Production ML Systems
 
-## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/vinaybanka">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinaybanka&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="vinaybanka's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=vinaybanka&theme=onedark&hide_border=true&cache_seconds=86400" alt="vinaybanka's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=vinaybanka&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Banka vinay venkata deepak's GitHub Trophies" />
+</p>
 
----
 
-## 📂 Featured Projects
+## 🛠️ Languages & Tools
 
-### 🔹 [Customer Segmentation & Retention Analysis](https://github.com/vinaybanka)
-> Python | SQL | Power BI | Scikit-learn | XGBoost
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 
-- Processed **500,000+ transactional records** using ETL techniques
-- Applied **RFM Analysis** and **KMeans Clustering** to segment 4,312 customers
-- Achieved **99.1% churn prediction accuracy** — identified **£1.08M** in at-risk revenue
-- Built a **4-page interactive Power BI dashboard** projecting **£172,000+** in recovery
+</p>
 
----
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
-### 🔹 [AI-Powered Customer Feedback Intelligence System](https://github.com/vinaybanka/customer-feedback-intelligence)
-> Python | HuggingFace | BERTopic | Streamlit | SQLite
+</p>
 
-- Built an end-to-end **NLP pipeline** processing **568,000+ Amazon reviews**
-- Fine-tuned **RoBERTa** model achieving **97% sentiment classification accuracy**
-- Discovered **10 product themes** using **BERTopic** without manual labeling
-- Deployed a **live cloud Streamlit dashboard** used by 5+ stakeholders
+<p align="center">
+  <a href="https://github.com/vinaybanka">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinaybanka&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-🔗 [View Live Demo](https://customer-feedback-intelligence-uefwexmnjwtzntw9nwpoih.streamlit.app/)
+## 🔗 Connect with Me
+<p align="center">
+  <a href="linkedin.com/in/vinayvenkatadeepak"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Banka vinay venkata deepak's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:bvinaybanka@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Banka vinay venkata deepak's Email"/></a>&nbsp;&nbsp;
+  <a href="https://wa.me/7842625036"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-## 🏆 Certifications
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-- 🏅 **Deloitte Australia (Forage)** — Data Analytics Job Simulation
-- 🏅 **Tata Group (Forage)** — Data Visualisation & Business Intelligence
-- 🏅 **Google & Coursera** — AI and Machine Learning Fundamentals
-- 🏅 **Kaggle** — Python Programming and Data Handling
-- 🏅 **Infosys Foundation & ICT Academy** — Cloud Computing | Grade A
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
----
-
-## 📊 GitHub Stats
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaybanka&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybanka&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayvenkatadeepak)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaybanka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvinaybanka@gmail.com)
-
----
-
-⭐ **If you find my projects useful, please give them a star!**
